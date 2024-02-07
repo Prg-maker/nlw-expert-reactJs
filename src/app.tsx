@@ -1,7 +1,6 @@
 import { NewNoteCart } from "./Components/new-note-cart";
 import { NoteCard } from "./Components/note-cart";
 import logo from "./assets/logo.svg";
-
 const note = {
   date: new Date(),
   content: 'Hello Wordl'
